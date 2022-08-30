@@ -25,3 +25,5 @@ Avarage case. <br/>
 2.Adım	3	7	5	8	2	9	4	15	6 <br/>
 3.Adım	3	5	7	8	2	9	4	15	6 <br/>
 4.Adım	3	5	7	8	2	9	4	15	6 <br/>
+
+www.patika.dev
